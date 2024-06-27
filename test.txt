@@ -1,0 +1,3 @@
+nya("something {1+2}")
+nya("something {1+2} {3+4}")
+nya("hello there")
